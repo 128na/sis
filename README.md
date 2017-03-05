@@ -13,6 +13,6 @@
 "クリエイティブ・コモンズ 表示 - 非営利 - 継承 4.0 国際 ライセンス"  
 によって許諾されています。ライセンスの内容を知りたい方はコモンズ証をご確認ください。
 
-コモンズ証：http://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja
-リーガルコード：http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+コモンズ証：http://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja  
+リーガルコード：http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode  
 
