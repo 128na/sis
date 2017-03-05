@@ -1,0 +1,70 @@
+§#______________________SIS_Shinkansen Track (Rail)____________________________
+#___________________________SIS 新幹線軌道（線路）______________________________
+#	SIS_Shinkansen Track Ballast Rail
+#	SIS 新幹線軌道 バラスト軌道
+SIS_ST_TGbl_E01-999B
+SIS 新幹線軌道 バラスト / グレー（奥・地上）
+SIS_ST_TGbl_E01-999F
+SIS 新幹線軌道 バラスト / グレー（手前・地上）
+SIS_ST_TGbl_E01-999C
+SIS 新幹線軌道 バラスト / グレー（中央・地上）
+SIS_ST_TGbl_E01-999S
+SIS 新幹線軌道 バラスト / グレー（単独・地上）
+SIS_ST_TEbl_E01-999B
+SIS 新幹線軌道 バラスト / グレー（奥・高架）
+SIS_ST_TEbl_E01-999F
+SIS 新幹線軌道 バラスト / グレー（手前・高架）
+SIS_ST_TEbl_E01-999C
+SIS 新幹線軌道 バラスト / グレー（中央・高架）
+SIS_ST_TEbl_E01-999S
+SIS 新幹線軌道 バラスト / グレー（単独・高架）
+SIS_ST_TGbl_E03-999B
+SIS 新幹線軌道 バラスト / 茶（奥・地上）
+SIS_ST_TGbl_E03-999F
+SIS 新幹線軌道 バラスト / 茶（手前・地上）
+SIS_ST_TGbl_E03-999C
+SIS 新幹線軌道 バラスト / 茶（中央・地上）
+SIS_ST_TGbl_E03-999S
+SIS 新幹線軌道 バラスト / 茶（単独・地上）
+SIS_ST_TEbl_E03-999B
+SIS 新幹線軌道 バラスト / 茶（奥・高架）
+SIS_ST_TEbl_E03-999F
+SIS 新幹線軌道 バラスト / 茶（手前・高架）
+SIS_ST_TEbl_E03-999C
+SIS 新幹線軌道 バラスト / 茶（中央・高架）
+SIS_ST_TEbl_E03-999S
+SIS 新幹線軌道 バラスト / 茶（単独・高架）
+#	SIS_Shinkansen Track Slab Rail
+#	SIS 新幹線軌道 スラブ軌道
+SIS_ST_TGsl_E01-999B
+SIS 新幹線軌道 スラブ / グレー（奥・地上）
+SIS_ST_TGsl_E01-999F
+SIS 新幹線軌道 スラブ / グレー（手前・地上）
+SIS_ST_TGsl_E01-999C
+SIS 新幹線軌道 スラブ / グレー（中央・地上）
+SIS_ST_TGsl_E01-999S
+SIS 新幹線軌道 スラブ / グレー（単独・高架）
+SIS_ST_TEsl_E01-999B
+SIS 新幹線軌道 スラブ / グレー（奥・高架）
+SIS_ST_TEsl_E01-999F
+SIS 新幹線軌道 スラブ / グレー（手前・高架）
+SIS_ST_TEsl_E01-999C
+SIS 新幹線軌道 スラブ / グレー（中央・高架）
+SIS_ST_TEsl_E01-999S
+SIS 新幹線軌道 スラブ / グレー（単独・高架）
+SIS_ST_TGsl_E03-999B
+SIS 新幹線軌道 スラブ / 茶（奥・地上）
+SIS_ST_TGsl_E03-999F
+SIS 新幹線軌道 スラブ / 茶（手前・地上）
+SIS_ST_TGsl_E03-999C
+SIS 新幹線軌道 スラブ / 茶（中央・地上）
+SIS_ST_TGsl_E03-999S
+SIS 新幹線軌道 スラブ / 茶（単独・地上）
+SIS_ST_TEsl_E03-999B
+SIS 新幹線軌道 スラブ / 茶（奥・高架）
+SIS_ST_TEsl_E03-999F
+SIS 新幹線軌道 スラブ / 茶（手前・高架）
+SIS_ST_TEsl_E03-999C
+SIS 新幹線軌道 スラブ / 茶（中央・高架）
+SIS_ST_TEsl_E03-999S
+SIS 新幹線軌道 スラブ / 茶（単独・高架）
